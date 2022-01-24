@@ -36,6 +36,7 @@ From this, we were able to gather the following statistics:
 * This makes Diana DeGette the clear winner with 272,892 votes (73.8%)
 
 See the text file in the analysis directory for confirmation:
+
 ![image](https://user-images.githubusercontent.com/17416097/150717090-378cf2fc-6bf0-45db-b174-35165d28bf97.png)
 
 ## Summary
